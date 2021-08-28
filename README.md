@@ -17,7 +17,7 @@ alt="Instagram Badge"></a>
 
 <h2> My Studies 📚 </h2>
 
-🎓 Bachelor in Computer Science from UFRJ, Brazil
+🎓 Bachelor in Computer Science at UFRJ, Brazil
 
 📖 Currently persuing a Master in Computer Science at UFRJ, Brazil
 
