@@ -49,8 +49,8 @@ alt="Instagram Badge"></a>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="35" height="25" />
-  <img src="https://lh3.googleusercontent.com/proxy/NOoZMrY9GwB4qRhCmu0ZsRMgxM-WnfsOEFojSschJZg4uky6YBed-hU57R23q2qI5zdbY5Fza8Ak8bKdMDR6ZepodWNTLhLVTmP9hMYqUsBPMjI6SIjM_R5KX_80fzAgmjKUhKpL7sXLI4wC" alt="eclipse" width="35" height="25" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="pentaho" width="35" height="25" />
+  <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" alt="eclipse" width="45" height="25" />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="pentaho" width="45" height="25" />
   
 </p>
 
