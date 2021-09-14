@@ -54,8 +54,4 @@ alt="Instagram Badge"></a>
   
 </p>
 
-<h2> Find me elsewhere 🌎 </h2>
-
-💼 [LinkedIn](https://www.linkedin.com/in/ingridqpacheco/)
-
 ![Snake animation](https://github.com/ingridpacheco/ingridpacheco/blob/output/github-contribution-grid-snake.svg)
