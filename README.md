@@ -9,7 +9,7 @@ alt="Instagram Badge"></a>
 
 <h2> Some facts about me ⚡️ </h2>
 
-👩‍💻 Full Stack Software Developer at Globo
+👩‍💻 Full Stack Software Developer at <a href="https://www.globo.com/">Globo</a>
 
 🇧🇷 Rio de Janeiro, Brazil
 
@@ -17,41 +17,31 @@ alt="Instagram Badge"></a>
 
 <h2> My Studies 📚 </h2>
 
-🎓 Bachelor in Computer Science at UFRJ, Brazil
+🎓 Bachelor in Computer Science at UFRJ, Brazil - GPA 8.9/10
 
 📖 Currently persuing a Master in Computer Science at UFRJ, Brazil
 
 <h2> Coding </h2>
 
-### Languages and libs 🖥
+### Languages, tools and libs 🖥
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="35" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    <img src="https://triplydb.com/imgs/avatars/d/5b9f3fac5cce65029ba1366e.png?v=4" alt="sparql" width="40" height="35" />
-	
-</p>
-
-### Software 🔧
-
-<p align="left">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="35" height="25" />
-  <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" alt="eclipse" width="45" height="25" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" alt="pentaho" width="45" height="25" />
-  
+    <p align="left">
+  	<img src="https://media.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="70">
+	<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+	<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
+	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+	<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+	<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50" />
+   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" />
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" />
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
+    	<img src="https://triplydb.com/imgs/avatars/d/5b9f3fac5cce65029ba1366e.png?v=4" alt="sparql" width="50" height="50" />
+     </p>
 </p>
 
 ![Snake animation](https://github.com/ingridpacheco/ingridpacheco/blob/output/github-contribution-grid-snake.svg)
